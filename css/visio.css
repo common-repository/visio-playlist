@@ -1,0 +1,14 @@
+#playlist{clear:both; width:600px;font-family: Verdana, Geneva, sans-serif;font-size: 14px;color: #000;text-transform: uppercase;margin-bottom: 5px;}
+.playlist{clear:both; width:100%; overflow:auto;}
+.playlist_title{width:100%; background: #f2f2f2; text-align:center; line-height:30px; margin-bottom:7px; margin-top:10px;}
+.playlist_headings{clear:both; width:100%; text-align:center; line-height:30px; overflow:auto; margin-bottom:3px;}
+.playlist_headings .rank{float:left; width:50px; margin-right: 4px; background: #f2f2f2;}
+.playlist_headings .title{float:left; width:244px; margin-right: 4px; background: #f2f2f2;}
+.playlist_headings .artist{float:left; width:244px; margin-right: 4px; background: #f2f2f2;}
+.playlist_headings .url{float:left; width:50px; background: #f2f2f2;}
+.playlist_items{clear:both; width:100%;overflow:auto; margin-bottom:3px; line-height:31px;}
+.playlist_items .rank{float:left; width:49px;border-right: 1px solid #d9d9d9;background: #f8f8f8;margin-right: 4px; text-align:center;}
+.playlist_items .title{float:left; width:243px;border-right: 1px solid #d9d9d9;background: #f8f8f8;margin-right: 4px;  text-align:center;}
+.playlist_items .artist{float:left;  width:243px; border-right: 1px solid #d9d9d9;background: #f8f8f8;margin-right: 4px;  text-align:center;}
+.playlist_items .url{float:left; width:49px;border-right: 1px solid #d9d9d9;background: #f8f8f8; text-align:center;}
+.playlist_items .url img{margin:0 0 -6px 0;}

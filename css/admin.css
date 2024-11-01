@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.col-id{
+	width:50px;
+}
+.col-playlist{width:250px;}
+.col-desc{width:500px;}
+.col-action{width:100px;}
